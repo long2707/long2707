@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tran Long</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=long2707&label=Profile%20views&color=0e75b6&style=flat" alt="long2707" /> </p>
+<h1 align="center">Hi 👋, I'm Tran Van Long</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=long2707&label=Profile%20views&color=0e75b6&style=flat" alt="long2707" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
